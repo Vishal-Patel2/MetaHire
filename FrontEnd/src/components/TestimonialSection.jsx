@@ -5,24 +5,24 @@ import { Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Vipul Khandelwal",
-    role: "Software Engineer at Google",
+    name: "Anup Yadav",
+    role: "Software Engineer at Microsoft",
     content:
       "MetaHire's AI mock interviews helped me prepare for tough technical questions. The personalized feedback was invaluable in landing my dream job.",
     avatar:
-      "https://media.licdn.com/dms/image/v2/D5603AQG05GoiixW1HQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729890286248?e=1744243200&v=beta&t=sFaX2LtiIGpFYRpXLGs06hjRO-2U4gTXsYSqFuOtDxA",
+      "https://www.gniotgroup.edu.in/latestnews/1711701147-1.jpg",
   },
   {
-    name: "Pratyush Ojha",
-    role: "Machine Learning Engineer at Adiyog Tech pvt.ltd",
+    name: "Rishav Yadav",
+    role: "System Engineer at TCS",
     content:
       "The resume analysis feature gave me insights I never would have considered. It completely transformed my approach to interviews.",
     avatar:
-      "https://media.licdn.com/dms/image/v2/D5603AQG-6dyFmwLoXg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726308272507?e=1744243200&v=beta&t=GuijiAnSsraWCRqirj6XkWM0Z1lnaUjVBjTyN2kTL_U",
+      "https://media.licdn.com/dms/image/v2/D5603AQEwovvnL-tX8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707755946672?e=2147483647&v=beta&t=v2DFv39IDJD8NuJXEhv-DMs_XpzZyKSaR-wH-4QmaDI",
   },
   {
-    name: "Dev Goyal",
-    role: "Brand ambassador at SwapSo",
+    name: "Sachindra Patel",
+    role: "Software Engineer at Tealium CDP",
     content:
       "The domain-specific questions were spot-on. MetaHire helped me gain confidence and improve my technical communication skills.",
     avatar:

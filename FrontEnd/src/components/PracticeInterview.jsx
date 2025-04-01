@@ -43,14 +43,14 @@ const InterviewSetup = () => {
   ];
 
   const levels = ["Fresher", "Junior", "Mid-Level", "Senior", "Lead"];
-
+ 
   const companies = [
-    "Google",
-    "Microsoft",
-    "Amazon",
-    "Meta",
-    "Apple",
-    "Netflix",
+    "TCS",
+    "Infosys",
+    "Wipro",
+    "Cognizant",
+    "HCLTech",
+    "Tech Mahindra",
   ];
 
   const technologies = [
