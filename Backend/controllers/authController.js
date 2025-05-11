@@ -159,7 +159,7 @@ exports.forgetPassword = async (req, res) => {
     })
 
     const receiver = {
-      from: "mockAI@gmail.com",
+      from: "infometahire@gmail.com",
       to: email,
       subject: "Password Reset Request",
       // Change this line to use your frontend URL and route
