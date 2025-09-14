@@ -1,4 +1,4 @@
-# 💼 MetaHire – Smart Hiring Platform with MERN & Machine Learning  
+# 💼 MetaHire
 
 MetaHire is an AI-powered full-stack web application designed to **streamline the hiring process** for companies and job seekers. Built on the **MERN stack**, it integrates **machine learning** to intelligently screen resumes, match candidates with jobs, and optimize recruitment workflows.  
 
