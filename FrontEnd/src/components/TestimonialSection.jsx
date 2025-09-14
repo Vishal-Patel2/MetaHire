@@ -21,12 +21,12 @@ const testimonials = [
       "https://media.licdn.com/dms/image/v2/D5603AQEwovvnL-tX8Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707755946672?e=2147483647&v=beta&t=v2DFv39IDJD8NuJXEhv-DMs_XpzZyKSaR-wH-4QmaDI",
   },
   {
-    name: "Sachindra Patel",
-    role: "Software Engineer at Tealium CDP",
+    name: "Vishal Patel",
+    role: "Full Stack Developer",
     content:
       "The domain-specific questions were spot-on. MetaHire helped me gain confidence and improve my technical communication skills.",
     avatar:
-      "https://media.licdn.com/dms/image/v2/D4D03AQH7ez59ovGX7w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694972916773?e=1744243200&v=beta&t=iek16m7-q2D5dr2zTOyqL-fnuDfrNOzFLO8QxXj6j4w",
+      "https://www.gniotgroup.edu.in/latestnews/VISHAL.webp",
   },
 ];
 

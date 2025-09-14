@@ -1,7 +1,7 @@
 # app/llm_feedback.py
 import openai
 
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "AIzaSyD5935VpdFvmfTbsVaZvM7Eu4a_o0vSpGw3285"
 
 def get_llm_feedback(question: str, answer: str):
     prompt = f"""
